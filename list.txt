@@ -1,0 +1,4 @@
+/home/ubuntu/QsComp/datasets/SRR032209.fastq
+/home/ubuntu/QsComp/datasets/SRR13575706_1.fastq
+/home/ubuntu/QsComp/datasets/SRR5220205_1.fastq
+/home/ubuntu/QsComp/datasets/SRR7216025_1.fastq
