@@ -7,6 +7,8 @@ The script in the projects is for evaluating the performance of algorithms used 
 - SRR13575706_1
 - SRR5220205_1
 - SRR7216025_1
+- SRR15066805
+- SRR15089532
 
 **Compared tools:**
 - AQUa
@@ -19,3 +21,5 @@ The script in the projects is for evaluating the performance of algorithms used 
 - genie
 - QVZ
 - fqzcomp
+- Crumble
+- PRBlock
