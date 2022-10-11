@@ -1,6 +1,6 @@
-# Quality scores compression of sequencing data: a comprehensive review and evaluation
+# Quality scores compression of sequencing data: a comprehensive review and performance evaluation
 
-The script in the projects is for evaluating the performance of algorithms used for qulaity score compresison. The compression ratio, speed and memory usage of each method on different datasets are compared.
+The script in the projects is for evaluating the performance of tools used for qulaity score compresison. The compression ratio, speed and memory usage of each method on different datasets are compared.
 
 **Dataset used:**
 - SRR032209
@@ -21,5 +21,3 @@ The script in the projects is for evaluating the performance of algorithms used 
 - genie
 - QVZ
 - fqzcomp
-- Crumble
-- PRBlock
